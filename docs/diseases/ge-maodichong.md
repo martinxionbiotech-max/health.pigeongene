@@ -1,3 +1,9 @@
+---
+title: 鸽毛滴虫
+description: 鸽毛滴虫是赛鸽常见的寄生虫性病原。本页面介绍其传播途径、症状、诊断与防控要点。
+schema_type: medicalcondition
+---
+
 # 鸽毛滴虫
 
 

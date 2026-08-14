@@ -1,3 +1,9 @@
+---
+title: 新城疫病毒
+description: 新城疫病毒是赛鸽常见的病毒性病原。本页面介绍其传播途径、症状、诊断与防控要点。
+schema_type: medicalcondition
+---
+
 # 新城疫病毒
 
 

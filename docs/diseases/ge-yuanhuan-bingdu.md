@@ -1,3 +1,9 @@
+---
+title: 鸽圆环病毒
+description: 鸽圆环病毒是赛鸽常见的病毒性病原。本页面介绍其传播途径、症状、诊断与防控要点。
+schema_type: medicalcondition
+---
+
 # 鸽圆环病毒
 
 

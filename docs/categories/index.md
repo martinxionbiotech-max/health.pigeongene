@@ -1,3 +1,9 @@
+---
+title: 病原分类
+description: 
+schema_type: index
+---
+
 # 病原分类
 
 ## 病原分类

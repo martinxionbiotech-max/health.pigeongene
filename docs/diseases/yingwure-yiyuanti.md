@@ -1,3 +1,9 @@
+---
+title: 鹦鹉热衣原体
+description: 鹦鹉热衣原体是赛鸽常见的细菌性病原。本页面介绍其传播途径、症状、诊断与防控要点。
+schema_type: medicalcondition
+---
+
 # 鹦鹉热衣原体
 
 

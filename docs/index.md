@@ -1,3 +1,9 @@
+---
+title: 赛鸽健康知识库
+description: 赛鸽健康知识库（health.pigeongene.com）是 PigeonGene 数字生态的健康支撑站，为鸽友提供科学、审慎的赛鸽疾病与检测知识。
+schema_type: home
+---
+
 # 赛鸽健康知识库
 
 赛鸽健康知识库（health.pigeongene.com）是 PigeonGene 数字生态的健康支撑站，为鸽友提供**科学、审慎**的赛鸽疾病与检测知识。

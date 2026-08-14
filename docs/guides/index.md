@@ -1,3 +1,9 @@
+---
+title: 检测与防控
+description: 
+schema_type: index
+---
+
 # 检测与防控
 
 ## 检测与防控指南
