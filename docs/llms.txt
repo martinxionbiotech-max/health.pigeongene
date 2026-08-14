@@ -1,0 +1,33 @@
+# PigeonGene 健康知识库
+
+> 赛鸽健康与疾病知识库：12 种病原检测、PCR 技术、生物安全与疾病防控的权威解读
+
+- [首页](https://health.pigeongene.com/)
+- [鸽子白色念珠菌](https://health.pigeongene.com/diseases/baise-nianzhujun/)
+- [鸽痘病毒](https://health.pigeongene.com/diseases/ge-dou-bingdu/)
+- [鸽多瘤病毒](https://health.pigeongene.com/diseases/ge-duoliu-bingdu/)
+- [鸽轮状病毒](https://health.pigeongene.com/diseases/ge-lunzhuang-bingdu/)
+- [鸽毛滴虫](https://health.pigeongene.com/diseases/ge-maodichong/)
+- [鸽子疱疹病毒](https://health.pigeongene.com/diseases/ge-paozhen-bingdu/)
+- [鸽腺病毒](https://health.pigeongene.com/diseases/ge-xian-bingdu/)
+- [鸽圆环病毒](https://health.pigeongene.com/diseases/ge-yuanhuan-bingdu/)
+- [沙门氏菌](https://health.pigeongene.com/diseases/shamen-shijun/)
+- [新城疫病毒](https://health.pigeongene.com/diseases/xinchengyi-bingdu/)
+- [鹦鹉热衣原体](https://health.pigeongene.com/diseases/yingwure-yiyuanti/)
+- [支原体](https://health.pigeongene.com/diseases/zhiyuanti/)
+- [PCR 检测](https://health.pigeongene.com/guides/pcr-testing/)
+- [生物安全](https://health.pigeongene.com/guides/biosecurity/)
+- [症状索引](https://health.pigeongene.com/guides/symptoms/)
+- [疾病预防](https://health.pigeongene.com/guides/prevention/)
+- [鸽舍健康](https://health.pigeongene.com/guides/loft-health/)
+- [诊断方法](https://health.pigeongene.com/guides/diagnostics/)
+- [术语表](https://health.pigeongene.com/glossary/)
+- [常见问题](https://health.pigeongene.com/faq/)
+
+## PigeonGene 生态
+
+- [主站（检测服务）](https://pigeongene.com)
+- [遗传知识库](https://genetics.pigeongene.com)
+- [健康知识库](https://health.pigeongene.com)
+- [科研中心](https://research.pigeongene.com)
+- [在线工具](https://tools.pigeongene.com)
