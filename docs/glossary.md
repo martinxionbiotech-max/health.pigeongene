@@ -28,4 +28,10 @@ schema_type: definedtermset
 | 特异性 | Specificity | 检测方法准确识别目标物、避免与其他物质交叉反应的能力。 |
 | 拭子 | Swab | 用于采集样本（如泄殖腔、喉部）的无菌采样工具。 |
 | 隔离检疫 | Quarantine | 将新引进或疑似感染个体单独隔离观察，防止病原传播的措施。 |
+| 灭活疫苗 | Inactivated Vaccine | 通过灭活病原制成的疫苗，刺激免疫但不致病。 |
+| 母源抗体 | Maternal Antibody | 幼鸟从母体获得的抗体，提供早期被动免疫保护。 |
+| 免疫程序 | Vaccination Schedule | 根据年龄、季节与流行病学制定的疫苗接种计划。 |
+| 继发感染 | Secondary Infection | 在机体免疫力下降后，由机会性病原引起的感染。 |
+| 气溶胶 | Aerosol | 悬浮在空气中的微小液滴或颗粒，是病原传播的途径之一。 |
+| 生物安全 | Biosecurity | 降低病原引入与传播风险的系统性管理措施。 |
 
