@@ -68,9 +68,9 @@ schema_type: medicalcondition
 
 ---
 
- · [主站病毒检测](https://pigeongene.com/bingdu-jiance/)
+ · [主站病毒检测](https://senopigeon.com/bingdu-jiance/)
 
 ---
 
-[← 返回病原百科](index.md) · [主站病毒检测](https://pigeongene.com/bingdu-jiance/)
+[← 返回病原百科](index.md) · [主站病毒检测](https://senopigeon.com/bingdu-jiance/)
 

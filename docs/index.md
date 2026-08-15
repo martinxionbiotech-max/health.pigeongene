@@ -1,12 +1,12 @@
 ---
 title: 赛鸽健康知识库
-description: 赛鸽健康知识库（health.pigeongene.com）是 PigeonGene 数字生态的健康支撑站，为鸽友提供科学、审慎的赛鸽疾病与检测知识。
+description: 赛鸽健康知识库（health.senopigeon.com）是 PigeonGene 数字生态的健康支撑站，为鸽友提供科学、审慎的赛鸽疾病与检测知识。
 schema_type: home
 ---
 
 # 赛鸽健康知识库
 
-赛鸽健康知识库（health.pigeongene.com）是 PigeonGene 数字生态的健康支撑站，为鸽友提供**科学、审慎**的赛鸽疾病与检测知识。
+赛鸽健康知识库（health.senopigeon.com）是 PigeonGene 数字生态的健康支撑站，为鸽友提供**科学、审慎**的赛鸽疾病与检测知识。
 
 ## 本站内容
 
@@ -21,8 +21,8 @@ schema_type: home
 
 ## PigeonGene 生态
 
-- [主站（检测服务）](https://pigeongene.com)
-- [遗传知识库](https://genetics.pigeongene.com)
-- [科研中心](https://research.pigeongene.com)
-- [在线工具](https://tools.pigeongene.com)
+- [主站（检测服务）](https://senopigeon.com)
+- [遗传知识库](https://genetics.senopigeon.com)
+- [科研中心](https://research.senopigeon.com)
+- [在线工具](https://tools.senopigeon.com)
 

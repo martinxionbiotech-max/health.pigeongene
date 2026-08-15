@@ -6,12 +6,12 @@
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://health.pigeongene.com/#organization",
+        "@id": "https://health.senopigeon.com/#organization",
         "name": "张家口赛诺生物科技有限公司",
         "alternateName": ["PigeonGene · SENO Biotech", "赛诺生物"],
         "legalName": "张家口赛诺生物科技有限公司",
-        "url": "https://pigeongene.com",
-        "logo": "https://pigeongene.com/wp-content/uploads/cropped-cropped-LOGO.png",
+        "url": "https://senopigeon.com",
+        "logo": "https://senopigeon.com/wp-content/uploads/cropped-cropped-LOGO.png",
         "description": "国家高新技术企业，专注赛鸽飞行能力基因检测、病毒检测与 DNA 身份证/亲缘鉴定。",
         "foundingDate": "2014",
         "numberOfEmployees": { "@type": "QuantitativeValue", "value": 15 },
@@ -30,20 +30,20 @@
         "email": "martin@dnatestingexperts.com",
         "telephone": "+86-13323237275",
         "sameAs": [
-          "https://pigeongene.com",
-          "https://genetics.pigeongene.com",
-          "https://health.pigeongene.com",
-          "https://research.pigeongene.com",
-          "https://tools.pigeongene.com"
+          "https://senopigeon.com",
+          "https://genetics.senopigeon.com",
+          "https://health.senopigeon.com",
+          "https://research.senopigeon.com",
+          "https://tools.senopigeon.com"
         ]
       },
       {
         "@type": "WebSite",
-        "@id": "https://health.pigeongene.com/#website",
+        "@id": "https://health.senopigeon.com/#website",
         "name": "PigeonGene 健康知识库",
-        "url": "https://health.pigeongene.com/",
+        "url": "https://health.senopigeon.com/",
         "description": "赛鸽健康与疾病知识库：12 种病原检测、PCR 技术、生物安全与疾病防控的权威解读",
-        "publisher": { "@id": "https://health.pigeongene.com/#organization" },
+        "publisher": { "@id": "https://health.senopigeon.com/#organization" },
         "inLanguage": "zh-CN"
       },
       {% if page and page.meta and page.meta.schema_type == 'article' %}
@@ -53,8 +53,8 @@
         "headline": "{{ page.title }}",
         "description": "{{ page.meta.description }}",
         "url": "{{ page.canonical_url }}",
-        "author": { "@id": "https://health.pigeongene.com/#organization" },
-        "publisher": { "@id": "https://health.pigeongene.com/#organization" },
+        "author": { "@id": "https://health.senopigeon.com/#organization" },
+        "publisher": { "@id": "https://health.senopigeon.com/#organization" },
         "inLanguage": "zh-CN",
         "mainEntityOfPage": "{{ page.canonical_url }}"
       },
@@ -71,7 +71,7 @@
           "description": "{{ page.meta.description }}",
           "url": "{{ page.canonical_url }}"
         },
-        "publisher": { "@id": "https://health.pigeongene.com/#organization" },
+        "publisher": { "@id": "https://health.senopigeon.com/#organization" },
         "inLanguage": "zh-CN"
       },
       {% elif page and page.meta and page.meta.schema_type == 'scholarlyarticle' %}
@@ -81,8 +81,8 @@
         "headline": "{{ page.title }}",
         "description": "{{ page.meta.description }}",
         "url": "{{ page.canonical_url }}",
-        "author": { "@id": "https://health.pigeongene.com/#organization" },
-        "publisher": { "@id": "https://health.pigeongene.com/#organization" },
+        "author": { "@id": "https://health.senopigeon.com/#organization" },
+        "publisher": { "@id": "https://health.senopigeon.com/#organization" },
         "inLanguage": "zh-CN",
         "mainEntityOfPage": "{{ page.canonical_url }}"
       },      {% elif page and page.meta and page.meta.schema_type == 'faqpage' %}
@@ -124,14 +124,14 @@
         "name": "{{ page.title }}",
         "description": "{{ page.meta.description }}",
         "url": "{{ page.canonical_url }}",
-        "about": { "@id": "https://health.pigeongene.com/#organization" }
+        "about": { "@id": "https://health.senopigeon.com/#organization" }
       },
       {% endif %}
       {
         "@type": "BreadcrumbList",
         "@id": "{{ page.canonical_url }}#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "首页", "item": "https://health.pigeongene.com/" },
+          { "@type": "ListItem", "position": 1, "name": "首页", "item": "https://health.senopigeon.com/" },
           { "@type": "ListItem", "position": 2, "name": "{{ page.title }}", "item": "{{ page.canonical_url }}" }
         ]
       }
