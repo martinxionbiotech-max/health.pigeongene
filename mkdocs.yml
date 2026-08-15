@@ -1,8 +1,8 @@
 site_name: PigeonGene 健康知识库
 site_url: https://health.pigeongene.com
 site_description: 赛鸽健康与疾病知识库：12 种病原检测、PCR 技术、生物安全与疾病防控的权威解读
-site_author: 张家口森诺生物科技有限公司
-copyright: © 张家口森诺生物科技有限公司（SENO Biotech）
+site_author: 张家口赛诺生物科技有限公司
+copyright: © 张家口赛诺生物科技有限公司（SENO Biotech）
 
 theme:
   name: material
