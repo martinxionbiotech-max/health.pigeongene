@@ -65,3 +65,9 @@ qPCR 在 PCR 基础上加入**荧光探针**，实时监测扩增过程，通过
 
 - [诊断方法](diagnostics.md)
 - [症状索引](symptoms.md)
+
+---
+
+## 主站检测服务
+
+如需赛鸽病毒/病原检测服务，欢迎访问 [赛诺基因检测中心主站 → 赛鸽病毒检测](https://senopigeon.com/bingdu-jiance/)。

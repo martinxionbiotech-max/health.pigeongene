@@ -55,3 +55,9 @@ schema_type: article
 - [鸽舍健康](loft-health.md)
 - [疾病预防](prevention.md)
 - [疫苗免疫](vaccination.md)
+
+---
+
+## 主站检测服务
+
+如需赛鸽病毒/病原检测服务，欢迎访问 [赛诺基因检测中心主站 → 赛鸽病毒检测](https://senopigeon.com/bingdu-jiance/)。
