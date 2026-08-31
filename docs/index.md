@@ -24,5 +24,5 @@ schema_type: home
 - [主站（检测服务）](https://senopigeon.com)
 - [遗传知识库](https://genetics.senopigeon.com)
 - [科研中心](https://research.senopigeon.com)
-- [在线工具](https://tools.senopigeon.com)
+- [在线工具](https://tool.senopigeon.com)
 
