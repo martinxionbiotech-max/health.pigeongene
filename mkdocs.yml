@@ -67,6 +67,45 @@ nav:
   - 内容依据与证据说明: evidence-grading.md
   - 常见问题: faq.md
 
+  - English:
+      - Overview: en/index.md
+      - Pathogen Encyclopedia:
+          - Pathogens Overview: en/diseases/index.md
+          - Pigeon Candida albicans: en/diseases/baise-nianzhujun.md
+          - Pigeon Poxvirus (PiPV): en/diseases/ge-dou-bingdu.md
+          - Pigeon Polyomavirus: en/diseases/ge-duoliu-bingdu.md
+          - Pigeon Rotavirus (PiRV): en/diseases/ge-lunzhuang-bingdu.md
+          - Pigeon Trichomonas: en/diseases/ge-maodichong.md
+          - Pigeon Herpesvirus (PiHV): en/diseases/ge-paozhen-bingdu.md
+          - Pigeon Adenovirus (PiADV): en/diseases/ge-xian-bingdu.md
+          - Pigeon Circovirus (PiCV): en/diseases/ge-yuanhuan-bingdu.md
+          - Salmonella: en/diseases/shamen-shijun.md
+          - Newcastle Disease Virus: en/diseases/xinchengyi-bingdu.md
+          - Chlamydia psittaci: en/diseases/yingwure-yiyuanti.md
+          - Mycoplasma: en/diseases/zhiyuanti.md
+      - Pathogen Categories:
+          - Categories Overview: en/categories/index.md
+          - Virus Testing: en/categories/viruses.md
+          - Bacterial Testing: en/categories/bacteria.md
+          - Parasite Testing: en/categories/parasites.md
+      - Testing and Prevention:
+          - Guides Overview: en/guides/index.md
+          - PCR Testing: en/guides/pcr-testing.md
+          - Biosecurity: en/guides/biosecurity.md
+          - Symptom Index: en/guides/symptoms.md
+          - Disease Prevention: en/guides/prevention.md
+          - Loft Health: en/guides/loft-health.md
+          - Diagnostic Methods: en/guides/diagnostics.md
+          - Vaccination: en/guides/vaccination.md
+          - Race-Season Health: en/guides/race-season-health.md
+          - Young Pigeon Health: en/guides/young-pigeon-health.md
+      - Glossary: en/glossary.md
+      - Evidence Basis and Grading: en/evidence-grading.md
+      - FAQ: en/faq.md
+
+hooks:
+  - hooks/i18n_lang.py
+
 markdown_extensions:
   - admonition
   - attr_list
