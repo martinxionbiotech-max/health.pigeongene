@@ -2,6 +2,11 @@
 title: 鸽多瘤病毒
 description: 鸽多瘤病毒（Pigeon Polyomavirus（PiAPV））是赛鸽常见病毒性病原。本页面介绍其传播途径、症状、诊断与防控要点。
 schema_type: medicalcondition
+faq:
+  - q: "成鸽需要检测吗？"
+    a: "建议检测。成鸽常隐性带毒并传播，引种检疫尤为必要。"
+  - q: "有疫苗吗？"
+    a: "国内商品化疫苗有限，防控以检疫淘汰与生物安全为主。"
 ---
 
 # 鸽多瘤病毒

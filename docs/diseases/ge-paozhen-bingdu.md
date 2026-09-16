@@ -2,6 +2,11 @@
 title: 鸽子疱疹病毒
 description: 鸽子疱疹病毒（Pigeon Herpesvirus（PHV））是赛鸽常见病毒性病原。本页面介绍其传播途径、症状、诊断与防控要点。
 schema_type: medicalcondition
+faq:
+  - q: "疱疹病毒能根治吗？"
+    a: "康复鸽多转为潜伏带毒，管理目标是控制复发与减少排毒。"
+  - q: "会传染人吗？"
+    a: "鸽疱疹病毒具有宿主特异性，不感染人。"
 ---
 
 # 鸽子疱疹病毒

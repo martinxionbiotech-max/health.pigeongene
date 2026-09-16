@@ -2,6 +2,11 @@
 title: 鸽毛滴虫
 description: 鸽毛滴虫（Trichomonas gallinae）是赛鸽常见寄生虫性病原。本页面介绍其传播途径、症状、诊断与防控要点。
 schema_type: medicalcondition
+faq:
+  - q: "毛滴虫和念珠菌怎么区分？"
+    a: "外观相似，需镜检或 PCR 鉴别，用药完全不同。"
+  - q: "会传染人吗？"
+    a: "鸽毛滴虫不感染人，无需担心。"
 ---
 
 # 鸽毛滴虫
