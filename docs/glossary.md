@@ -1,6 +1,6 @@
 ---
 title: 术语表
-description: 
+description: 赛鸽健康术语表：病原、PCR 检测、生物安全与疾病防控相关的核心术语解释，帮助鸽友准确理解检测与疾病知识。
 schema_type: definedtermset
 ---
 

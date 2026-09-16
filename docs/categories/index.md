@@ -1,6 +1,6 @@
 ---
 title: 病原分类
-description: 
+description: 赛鸽病原分类导航：病毒、细菌、寄生虫三大类病原的传播、症状、诊断与防控要点，以及分类对用药和检测的意义。
 schema_type: index
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 检测与防控
-description: 
+description: 防控指南枢纽：赛鸽健康防控 8 大指南导读，涵盖 PCR 检测、生物安全、症状识别、疾病预防与鸽舍管理。
 schema_type: index
 ---
 
