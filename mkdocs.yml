@@ -64,6 +64,7 @@ nav:
       - 比赛季健康: guides/race-season-health.md
       - 幼鸽健康: guides/young-pigeon-health.md
   - 术语表: glossary.md
+  - 内容依据与证据说明: evidence-grading.md
   - 常见问题: faq.md
 
 markdown_extensions:
