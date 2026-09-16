@@ -1,8 +1,56 @@
 ---
-
 title: 病原百科
 description: 本站收录 12 种赛鸽常见病原的百科条目。
-schema_type: index
+schema_type: definedtermset
+defined_terms:
+  - name: 鸽痘病毒
+    code: Pigeon Poxvirus
+    desc: 皮肤与黏膜型痘病毒，经蚊虫叮咬与直接接触传播
+    url: https://health.senopigeon.com/diseases/ge-dou-bingdu/
+  - name: 鸽多瘤病毒
+    code: PiAPV
+    desc: 主要危害幼鸽，引起免疫抑制与多器官损伤
+    url: https://health.senopigeon.com/diseases/ge-duoliu-bingdu/
+  - name: 鸽轮状病毒
+    code: Pigeon Rotavirus
+    desc: 引起消化系统症状的 RNA 病毒
+    url: https://health.senopigeon.com/diseases/ge-lunzhuang-bingdu/
+  - name: 鸽子疱疹病毒
+    code: PHV
+    desc: 可潜伏感染，应激后复发的疱疹病毒
+    url: https://health.senopigeon.com/diseases/ge-paozhen-bingdu/
+  - name: 鸽腺病毒
+    code: Pigeon Adenovirus
+    desc: 引起幼鸽病与肝脏损伤的腺病毒
+    url: https://health.senopigeon.com/diseases/ge-xian-bingdu/
+  - name: 鸽圆环病毒
+    code: PiCV
+    desc: 引起免疫抑制的圆环病毒
+    url: https://health.senopigeon.com/diseases/ge-yuanhuan-bingdu/
+  - name: 新城疫病毒
+    code: NDV
+    desc: 高度传染性副黏病毒，人兽共患需防护
+    url: https://health.senopigeon.com/diseases/xinchengyi-bingdu/
+  - name: 沙门氏菌
+    code: Salmonella spp.
+    desc: 引起消化道与全身感染的革兰氏阴性菌
+    url: https://health.senopigeon.com/diseases/shamen-shijun/
+  - name: 鹦鹉热衣原体
+    code: Chlamydia psittaci
+    desc: 人兽共患衣原体，引起呼吸道症状
+    url: https://health.senopigeon.com/diseases/yingwure-yiyuanti/
+  - name: 支原体
+    code: Mycoplasma spp.
+    desc: 引起慢性呼吸道病的支原体
+    url: https://health.senopigeon.com/diseases/zhiyuanti/
+  - name: 鸽毛滴虫
+    code: Trichomonas gallinae
+    desc: 寄生性原虫，引起口咽部黄白色干酪样病灶
+    url: https://health.senopigeon.com/diseases/ge-maodichong/
+  - name: 鸽子白色念珠菌
+    code: Candida albicans
+    desc: 条件致病真菌，嗉囊与消化道感染
+    url: https://health.senopigeon.com/diseases/baise-nianzhujun/
 ---
 
 # 病原百科

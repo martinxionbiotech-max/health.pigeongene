@@ -147,7 +147,13 @@
         "@id": "{{ page.canonical_url }}#definedtermset",
         "name": "{{ page.title }}",
         "description": "{{ page.meta.description }}",
-        "url": "{{ page.canonical_url }}"
+        "url": "{{ page.canonical_url }}"{% if page.meta.defined_terms %},
+        "hasDefinedTerm": [
+          {% for t in page.meta.defined_terms %}
+          { "@type": "DefinedTerm", "name": "{{ t.name }}", "termCode": "{{ t.code }}", "description": "{{ t.desc }}", "url": "{{ t.url }}" }{% if not loop.last %},{% endif %}
+          {% endfor %}
+        ]
+        {% endif %}
       },
       {% elif page and page.meta and page.meta.schema_type == 'collectionpage' %}
       {
