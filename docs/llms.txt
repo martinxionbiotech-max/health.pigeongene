@@ -24,6 +24,10 @@
 - [术语表](https://health.senopigeon.com/glossary/)
 - [常见问题](https://health.senopigeon.com/faq/)
 
+## 内容政策
+
+- [内容与证据政策](https://senopigeon.com/zhishi/neirong-zhengce/)：编辑原则、文献引用标准与兽医免责声明
+
 ## PigeonGene 生态
 
 - [主站（检测服务）](https://senopigeon.com)
