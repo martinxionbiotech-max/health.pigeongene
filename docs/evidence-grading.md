@@ -40,4 +40,4 @@ schema_type: article
 
 ---
 
-[← 返回首页](../index.md) · [主站病毒检测](https://senopigeon.com/bingdu-jiance/)
+[← 返回首页](index.md) · [主站病毒检测](https://senopigeon.com/bingdu-jiance/)
